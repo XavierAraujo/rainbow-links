@@ -10,6 +10,9 @@ This repo contains a collection of useful software engineering articles related 
   - [Understanding Weak References](https://web.archive.org/web/20061130103858/http://weblogs.java.net/blog/enicholas/archive/2006/05/understanding_w.html)
   - [Spring Framework Best Practices](https://web.archive.org/web/20220928100803/https://www.endoflineblog.com/spring-best-practices)
 
+# Dabases
+  - [Understanding Database Isolation Levels](https://web.archive.org/web/20231225034004/https://medium.com/nerd-for-tech/understanding-database-isolation-levels-c4ebcd55c6b9?__cf_chl_rt_tk=2iBTISplJS97vdU5lHxTPKv7mbMVBKURYcabvb8vfXM-1703475604-0-gaNycGzNDRA)
+
 # SQL
   - [SQL Subqueries](https://web.archive.org/web/20240213175203/https://mode.com/sql-tutorial/sql-sub-queries/)
 
