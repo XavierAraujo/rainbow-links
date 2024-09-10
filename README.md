@@ -11,7 +11,7 @@ This repo contains a collection of useful software engineering articles related 
   - [Spring Framework Best Practices](https://web.archive.org/web/20220928100803/https://www.endoflineblog.com/spring-best-practices)
 
 # Dabases
-  - [Understanding Database Isolation Levels](https://web.archive.org/web/20231225034004/https://medium.com/nerd-for-tech/understanding-database-isolation-levels-c4ebcd55c6b9?__cf_chl_rt_tk=2iBTISplJS97vdU5lHxTPKv7mbMVBKURYcabvb8vfXM-1703475604-0-gaNycGzNDRA)
+  - [Understanding Database Isolation Levels](https://medium.com/nerd-for-tech/understanding-database-isolation-levels-c4ebcd55c6b9)
 
 # SQL
   - [SQL Subqueries](https://web.archive.org/web/20240213175203/https://mode.com/sql-tutorial/sql-sub-queries/)
