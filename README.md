@@ -18,3 +18,6 @@ This repo contains a collection of useful software engineering articles related 
 
 # General Coding Practices
   - [Bad defaults are worst than no defaults](https://web.archive.org/web/20220521000849/https://softwareengineering.stackexchange.com/questions/63908/default-values-are-they-good-or-evil)
+
+# General
+  - [Learning-a-Codebase by Reading Tests](https://web.archive.org/web/20240523083720/https://www.coreycleary.me/learning-a-codebase-by-reading-tests)
