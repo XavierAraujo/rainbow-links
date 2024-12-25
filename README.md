@@ -21,3 +21,4 @@ This repo contains a collection of useful software engineering articles related 
 
 # General
   - [Learning-a-Codebase by Reading Tests](https://web.archive.org/web/20240523083720/https://www.coreycleary.me/learning-a-codebase-by-reading-tests)
+  - [Cognitive Load is what matters](https://web.archive.org/web/20241214135525/https://github.com/zakirullin/cognitive-load)
